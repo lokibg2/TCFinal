@@ -1,0 +1,31 @@
+We have completed the Front-end of our application and we have attached it above.
+We are currently building our Back-end using Firebase since it is more real-time compatible compared to Hasura.
+
+Brief Description of work done:
+The TC is the client app which allows public to post their crisis to the firebase db. (Completed)
+The Emergency Responder app is for the drivers of vehicles. (Frontend done)
+The admin panel can view the overall statistics of crises posted so far.(Frontend done)
+
+Offline Enabling Feature: 
+To be implemented using firebase offline data storage and text message based alert system
+
+Requirements for running the application:
+-> node.js
+-> npm
+-> AngularJS
+-> ionic
+-> cordova
+-> python
+-> MongoDB
+
+Instructions to run the AdminPanel:
+-> After extracting the zip goto the respective directory in the terminal
+-> Run the following command in the terminal
+	-> python -m SimpleHTTPServer
+-> Goto to http://localhost:8000 in your browser
+
+Instructions to run tc & driver (Client side application):
+-> After extracting the zip goto the  directory in the terminal
+-> Run the following command in the terminal
+	-> ionic serve —lab
+-> The app opens in the browser
