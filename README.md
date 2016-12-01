@@ -29,6 +29,7 @@ An innovative cross-platform Emergency Management System
 ======================================================================================
 ## Architecture: 
 The platform consists of 3 separate apps
+
 1. ### [Admin Panel](https://github.com/akash227/AdminPanelTC)
 
 2. ### [Emergency Responder App](https://github.com/lokibg2/TC-Driver)
