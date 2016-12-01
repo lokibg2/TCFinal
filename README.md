@@ -38,5 +38,7 @@ The platform consists of 3 separate apps
 
 
 ## Other Files:
-* #### [Database Schema](https://docs.google.com/spreadsheets/d/1VGY7F5z60DJNdwg3OXGfQ8aCAiHoNc4vvmF_d9H1mwE/edit?usp=sharing)
-* #### [API Reference](https://docs.google.com/document/d/13pHP8UZ9pVn314EApLFLs6G5l4Fz0iJrNucUtcI4H5A/edit?usp=sharing)
+
+*  [Database Schema](https://docs.google.com/spreadsheets/d/1VGY7F5z60DJNdwg3OXGfQ8aCAiHoNc4vvmF_d9H1mwE/edit?usp=sharing)
+
+*  [API Reference](https://docs.google.com/document/d/13pHP8UZ9pVn314EApLFLs6G5l4Fz0iJrNucUtcI4H5A/edit?usp=sharing)
